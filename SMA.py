@@ -35,4 +35,5 @@ if num_students>0:
         ax.legend(title="Students")
         st.pyplot(fig) 
     else:
+        
         st.warning("Please enter all student names.")          
