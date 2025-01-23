@@ -1,7 +1,7 @@
 # Student Marks Analysis
 
 Analyze and visualize student performance using python
----
+
 
 ## Description
 
@@ -9,27 +9,28 @@ The `Student Marks Analysis` project helps to analyze and visualize student scor
 
 ---
 
-
-
 ## Table of Contents
 
-1.[Installation](#installation)   
+1.[Installation](#installation)  
+
 2.[Usage](#usage)
+
 3.[Features](#features)  
+
 4.[Technologies Used](#technologies-used)
-5. [Conclusion](#conclusion) 
----
+
+5.[Conclusion](#conclusion) 
 
 ## Installation
 
 1. Make sure Python is installed on your computer.  
 2. Install the required libraries using the following command:  
-
    ```bash
    pip install numpy matplotlib streamlit
    ```
-  ``bash
-  pip install pandas
+   ```bash
+   pip install pandas
+   ```
 3.clone the repository:
   ```bash
   git clone https://github.com/sravanthidaddala/StudentMarksAnalysis.git
@@ -37,25 +38,23 @@ The `Student Marks Analysis` project helps to analyze and visualize student scor
 4.Navigate to the project directory:
   ```bash
   cd StudentMarksAnalysis
- ```
+  ```
 5.Install dependencies:
   ```bash
-pip install -r requirements.txt
+  pip install -r requirements.txt
+  ```
 
-```
-##Usage
+## Usage
 To analyze a sample dataset, run:
 ```bash
 python analyze.py
 ```
----
+
 ## Features
 
 - **Mean Calculation**: Calculates the average score of students.  
 - **Mode Calculation**: Finds the highest and lowest marks in each subject.  
 - **Data Visualization**: Creates graph and box plots for easy interpretation.  
-
----
 
 ## Technologies Used
 
@@ -65,13 +64,12 @@ python analyze.py
 - **Matplotlib**: For creating visual graphs.  
 - **Streamlit**: For user interphase.  
 
----
-##Conclusion
--Identify students who need help.
--Recognize high performers.
--Understand overall class trends.
----
-##Contact
-Created by [Sravanthi](https://github.com/sravanthidaddala)-feel free to contact me!
----
+## Conclusion
+-*Identify students who need help.*
 
+-*Recognize better performers.*
+
+-*Understand overall class trends.*
+
+## Contact
+Created by [Sravanthi](https://github.com/sravanthidaddala)-feel free to contact me!
